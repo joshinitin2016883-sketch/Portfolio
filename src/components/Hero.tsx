@@ -24,7 +24,7 @@ export const Hero = () => {
               <span className="text-gradient">Nitin Joshi</span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground mb-4 text-center font-medium">
-              Computer Science Engineer | Machine Learning Enthusiast | Aspiring Software Engineer
+              Computer Science Engineer | Machine Learning Enthusiast | Aspiring Software Engineer.
             </p>
             <p className="text-muted-foreground max-w-xl mx-auto mb-8 leading-relaxed">
               Passionate about problem-solving with a strong academic foundation in Computer Science.
